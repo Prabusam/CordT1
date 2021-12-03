@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-23RNKA61</Machine>
+    <WindowsUser>CTO</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>7a0fde80-5367-11ec-9272-55badfe62e44</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\TestApp\DSSApp\DSSApp\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>E:\TestApp\DSSApp\DSSApp\platforms\windows\build\windows\debug\x64\win10\AppX</LayoutDir>
+    <RegisteredManifestChecksum>3FA7F97CD354D0DE60944FF7ED6A45DBBE1DEDC6F190DD80993DB3E1C12FE031</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myappf62174_1.0.0.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myappf62174_h35559jr9hy9m!io.cordova.myappf62174</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myappf62174</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\build\windows\debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-03T07:54:22.509</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-02T12:00:45.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-02T12:00:45.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2021-12-02T12:00:45.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-02T12:00:45.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-02T12:00:45.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2021-12-02T12:00:45.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-02T12:00:45.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-02T12:00:45.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-02T12:00:45.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\images\cordova.png">
+      <PackagePath>www\images\cordova.png</PackagePath>
+      <Modified>2021-12-02T12:00:44.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+      <Modified>2021-12-03T07:54:17.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2021-12-03T07:54:17.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2021-12-03T07:54:17.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+      <Modified>2021-12-03T07:54:17.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2021-12-02T12:00:44.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2021-12-03T07:54:17.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2021-12-02T12:00:45.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2021-12-02T12:00:45.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2021-12-02T12:00:45.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2021-12-02T12:00:44.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2021-12-03T07:54:17.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+      <Modified>2021-12-02T12:00:44.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2021-12-02T12:00:45.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2021-12-03T07:54:17.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TestApp\DSSApp\DSSApp\platforms\windows\build\windows\debug\x64\win10\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-12-03T07:54:22.266</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
